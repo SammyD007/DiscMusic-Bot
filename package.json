@@ -1,0 +1,11 @@
+{
+  "name": "007bot",
+  "version": "1.0.0",
+  "description": "Music bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SammyD007",
+  "license": "ISC"
+}
